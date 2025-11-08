@@ -16,7 +16,7 @@ sudo apt update && rm -rf install.py && wget -qO install.py https://raw.githubus
 ```
 
 ## Acknowledgements
-This project has been created in appreciation of the efforts of **GTA**, **emre1393**, and **urgodfather**‌ and thanks to **xoceunder** I hope you enjoy using it. Please report any issues with the script installation on GitHub. 
+This project has been created in appreciation of the efforts of **Silenttrix**, **SHIN**, and **urgodfather**‌ . Please report any issues with the script installation on GitHub. 
 
 I welcome your feedback.
 
